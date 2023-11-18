@@ -5,6 +5,6 @@
 
 let myVar = "Hello, World!";
 
--[] Turn on GitHub Pages
--[] outline my portfolio
--[] Introduce myself to the world
+- [] Turn on GitHub Pages
+- [] outline my portfolio
+- [] Introduce myself to the world
